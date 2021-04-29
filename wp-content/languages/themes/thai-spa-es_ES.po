@@ -1,0 +1,69 @@
+# Translation of Themes - Thai Spa in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Thai Spa package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-04-14 10:57:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Thai Spa\n"
+
+#. Description of the theme
+msgid "Thai Spa is an elegant and modern WordPress theme for spa and wellness centers but it is also very easy to customize it for other business like hairdressing, ayurvedic, manicures, pedicures, makeup, mashups, nails, detox, tanning, male grooming, facials, waxing, spa and body treatments, massages or other Hair & Barber related services. View the demo of Thai Spa Pro https://www.nayrathemes.com/demo/pro/?theme=thai-spa"
+msgstr "Thai Spa es un tema elegante y moderno de WordPress para centros de spa y bienestar, pero también es muy fácil de personalizar para otros negocios como peluquería, tratamientos ayurvédicos, manicuras, pedicuras, maquillaje, mashups, uñas, desintoxicación, bronceado, belleza masculina, tratamientos faciales, depilación, tratamientos corporales y de spa, masajes u otros servicios relacionados con peluquerías y barberías. Ver la demo de Thai Spa Pro https://www.nayrathemes.com/demo/pro/?theme=thai-spa"
+
+#. Theme Name of the theme
+msgid "Thai Spa"
+msgstr "Thai Spa"
+
+#: inc/customize/thai-spa-premium.php:36
+msgid "Show Some Love"
+msgstr "Danos un poco de cariño"
+
+#: inc/customize/thai-spa-premium.php:32
+msgid "Free Vs Pro"
+msgstr "Gratis vs PRO"
+
+#: inc/customize/thai-spa-premium.php:30
+msgid "Get Support"
+msgstr "Obtener soporte"
+
+#: inc/customize/thai-spa-premium.php:28
+msgid "View Documentation"
+msgstr "Ver la documentación"
+
+#: inc/customize/thai-spa-premium.php:12 inc/customize/thai-spa-premium.php:34
+msgid "Upgrade to Pro"
+msgstr "Mejorar a Pro"
+
+#: template-parts/sections/thai-spa-navigation.php:183
+msgid "Your cart"
+msgstr "Tu carrito"
+
+#: template-parts/sections/thai-spa-navigation.php:141
+msgid "Search"
+msgstr "Buscar"
+
+#: template-parts/sections/thai-spa-navigation.php:93
+#: template-parts/sections/thai-spa-navigation.php:123
+msgid "0"
+msgstr "0"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#. Author URI of the theme
+msgid "https://www.nayrathemes.com/"
+msgstr "https://www.nayrathemes.com/"
+
+#. Theme URI of the theme
+msgid "https://www.nayrathemes.com/thaispa-free/"
+msgstr "https://www.nayrathemes.com/thaispa-free/"
+
+#. Author of the theme
+msgid "Nayra Themes"
+msgstr "Nayra Themes"
